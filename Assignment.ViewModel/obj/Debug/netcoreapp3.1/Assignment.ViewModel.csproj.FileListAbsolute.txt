@@ -1,0 +1,9 @@
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\bin\Debug\netcoreapp3.1\Assignment.ViewModel.deps.json
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\bin\Debug\netcoreapp3.1\Assignment.ViewModel.dll
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\bin\Debug\netcoreapp3.1\Assignment.ViewModel.pdb
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\obj\Debug\netcoreapp3.1\Assignment.ViewModel.csprojAssemblyReference.cache
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\obj\Debug\netcoreapp3.1\Assignment.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\obj\Debug\netcoreapp3.1\Assignment.ViewModel.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\obj\Debug\netcoreapp3.1\Assignment.ViewModel.AssemblyInfo.cs
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\obj\Debug\netcoreapp3.1\Assignment.ViewModel.dll
+C:\Users\danny\source\repos\Assignment.Api\Assignment.ViewModel\obj\Debug\netcoreapp3.1\Assignment.ViewModel.pdb

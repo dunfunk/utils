@@ -1,0 +1,8 @@
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\bin\Debug\netcoreapp3.1\Assignment.Model.deps.json
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\bin\Debug\netcoreapp3.1\Assignment.Model.dll
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\obj\Debug\netcoreapp3.1\Assignment.Model.AssemblyInfoInputs.cache
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\obj\Debug\netcoreapp3.1\Assignment.Model.AssemblyInfo.cs
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\bin\Debug\netcoreapp3.1\Assignment.Model.pdb
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\obj\Debug\netcoreapp3.1\Assignment.Model.csproj.CoreCompileInputs.cache
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\obj\Debug\netcoreapp3.1\Assignment.Model.dll
+C:\Users\danny\source\repos\Assignment.Api\Assignment.Model\obj\Debug\netcoreapp3.1\Assignment.Model.pdb
